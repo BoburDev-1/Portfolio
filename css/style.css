@@ -1,9 +1,4 @@
-@media(max-width: 800px){
-  body{
-    width: 800px;
-    background: red;
-  }
-}
+
 *{
   text-decoration: none;
   list-style: none;
